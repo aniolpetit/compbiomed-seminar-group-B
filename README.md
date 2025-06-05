@@ -1,4 +1,4 @@
-# compbiomed-seminar
+# compbiomed-seminar-group-B
 In this repository you can find all necessary files to train the final model used for both classifications tasks (transfer learning using HuBERT ECG model).
 
 In order to do it you should have the data files: `all_points_may_2024-001.pkl` and `labels_FontiersUnsupervised.xlsx`.
